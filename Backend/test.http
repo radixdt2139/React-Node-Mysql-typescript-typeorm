@@ -1,0 +1,7 @@
+### Request 1
+GET http://localhost:3000/users
+
+### Request 2
+POST http://localhost:3000/add-new-user
+[Request Headers]
+username={{'anujpal'}}
